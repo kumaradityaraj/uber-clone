@@ -1,4 +1,4 @@
-#UBER CLONE
+# UBER CLONE
 
 ------------
 Created a frontend clone of famous taxi service app **UBER** using **React.js** for frontend and **Firebase** for authentication.
